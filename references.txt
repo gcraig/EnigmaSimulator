@@ -1,0 +1,8 @@
+Enigma References
+
+http://users.telenet.be/d.rijmenants/en/enigmaproc.htm
+http://www.madlab.org/guides/enigma.html
+http://www.madlab.org/guides/CodeBook.pdf
+http://www.stealthcopter.com/blog/2011/05/recreating-the-enigma-in-python/
+http://users.telenet.be/d.rijmenants/en/enigma.htm
+https://en.wikipedia.org/wiki/Enigma_rotor_details
